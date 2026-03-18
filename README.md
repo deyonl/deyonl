@@ -4,7 +4,7 @@
   <img src="https://www.cl.cam.ac.uk/research/security/ctsrd/images/llvm-dragon.png" width="100"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=%23FF0000&center=true&vCenter=true&width=600&height=100&lines=Я+просто+слишком+хорош">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=%23FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Я+просто+слишком+хорош">
 </p>
 
 <div id="badges" align="center">
